@@ -30,10 +30,12 @@ h1, h2, h3, h4 {
 
 .date {
     color: #828282;
+    float: right;
 }
 
 .save {
     float: right;
+    margin-left: 10px;
 }
 
 .post-form textarea, .post-form input {
